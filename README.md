@@ -18,11 +18,6 @@ Yemshanov, D., Liu, N., Neilson, E., Thompson, D., Koch F. In review.  A graph-b
    ```bash
    pip install -r requirements.txt
    ```
-3. Install the `postbp` package (required):
-   ```bash
-   pip install postbp
-   ```
-   For more information, see the [postbp GitHub page](https://github.com/nliu-cfs/postbp).
 
 ## Usage
 1. Place your input files in the `rawData/` folder. The required files include:
