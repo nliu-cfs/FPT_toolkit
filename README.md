@@ -1,4 +1,5 @@
-# Fire Propagation Tree Toolkit (FPT) - Generating fire propagation tree graphs and fireplain data datasets from the fire growth model outputs
+# Fire Propagation Tree Toolkit (FPT) 
+- Generating fire propagation tree graphs and fireplain data datasets from the fire growth model outputs
 
 ## Overview
 This repository provides a toolkit for generating the fire propagation tree graphs and fireplain sets from the wildfire growth model outputs. The main script, `FPT.py`, processes the fire growth model outputs and generates the fire propagation tree graphs.
