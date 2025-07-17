@@ -1,0 +1,7 @@
+Raw data for this project is not included in the repository due to GitHub's file size limitations.
+
+To access the raw data required for running or reproducing analyses, please use the following Google Drive link:
+
+https://drive.google.com/drive/folders/19dDYMftGVw7PQ1_j9QOqag4mlc1Ez4ve?usp=sharing
+
+If you have any issues accessing the data, please contact the project maintainer.

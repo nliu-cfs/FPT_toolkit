@@ -1,8 +1,8 @@
 # Fire Propagation Tree Toolkit (FPT) 
-- Generating fire propagation tree graphs and fireplain data datasets from the fire growth model outputs
+### Generating fire propagation tree graphs and fireplain data datasets from the fire growth model outputs
 
 ## Overview
-This repository provides a toolkit for generating the fire propagation tree graphs and fireplain sets from the wildfire growth model outputs. The main script, `FPT.py`, processes the fire growth model outputs and generates the fire propagation tree graphs.
+This repository provides a toolkit for generating fire propagation tree graphs and fireplain sets from the wildfire growth model outputs. The main script, `FPT.py`, processes the fire growth model outputs.
 
 ## Citation Notice
 Yemshanov, D., Liu, N., Neilson, E., Thompson, D., Koch F. In review.  A graph-based optimization framework for firebreak planning in wildfire-prone landscapes. Ecological Informatics.
@@ -29,6 +29,7 @@ Yemshanov, D., Liu, N., Neilson, E., Thompson, D., Koch F. In review.  A graph-b
    ```
 3. Outputs will be saved in the `output/` folder.
 
+
 ## Folder Structure
 ```
 rawData/   # Input files
@@ -37,6 +38,7 @@ FPT.py     # Main analysis script
 requirements.txt
 README.md
 ```
+The input demo files are included in the rawData folder.
 
 ## About `postbp`
 - The code uses the postbp library - an open-source Python code for post-processing wildfire model outputs (see documentation in [https://nliu-cfs.github.io/postbp] https://nliu-cfs.github.io/postbp)
