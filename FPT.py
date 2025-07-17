@@ -23,7 +23,6 @@ def citation_warning():
     print("""
     =====================================================
     |  NOTICE: If you use this code, please cite our article. |
-    |  Uncited use is discouraged and may violate copyright.  |
     =====================================================
     """)
 
