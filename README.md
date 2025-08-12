@@ -5,14 +5,13 @@
 This repository provides a toolkit for generating fire propagation tree graphs and fireplain sets from the wildfire growth model outputs. The main script, `FPT.py`, processes the fire growth model outputs.
 
 ## Citation Notice
-Yemshanov, D., Liu, N., Neilson, E., Thompson, D., Koch F. In review.  A graph-based optimization framework for firebreak planning in wildfire-prone landscapes. Ecological Informatics.
+Yemshanov, Denys, Ning Liu, Eric W. Neilson, Daniel Thompson, and Frank H. Koch. "A graph-based optimization framework for firebreak planning in wildfire-prone landscapes." Ecological Informatics (2025): 103339.
 
 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/nliu-cfs/FPT_toolkit.git
    ```
 2. Install dependencies:
    ```bash
